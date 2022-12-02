@@ -1,0 +1,6 @@
+-   id: check-write-parquet
+    name: check write parquet
+    description: simply checks whether the files parse as valid python.
+    entry: check-write-parquet
+    language: python
+    types: [python]
